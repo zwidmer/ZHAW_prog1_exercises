@@ -1,3 +1,3 @@
-# ZHAW_Prog1_exercises
+# ZHAW_Prog_exercises
 
-Solutions to four of our programming exercises
+Solutions to some of our programming exercises
